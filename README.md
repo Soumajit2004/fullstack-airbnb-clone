@@ -6,8 +6,6 @@ React and backend development with NestJS.**
 **Disclaimer:** This README was generated with the assistance of AI, but it has been thoroughly reviewed and verified
 for accuracy.
 
-[Live Demo](https://airbnb-clone.up.railway.app/)
-
 ![collage](https://github.com/user-attachments/assets/cbebbe9c-3275-477b-9c70-de5530013f86)
 
 [View all images](https://photos.app.goo.gl/dh3bev79G3tnSRt6A)
